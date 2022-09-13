@@ -1,0 +1,9 @@
+.n{
+    display: flex;
+    gap: 5rem;
+    border: dotted 1px;
+    width: 450px;
+    padding-left: 50px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}

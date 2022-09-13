@@ -1,0 +1,55 @@
+.controller
+ {
+    
+   display:flex;
+   gap:3rem;
+   /* background-color:rgba(5, 222, 233, 0.496);
+   padding-left: 25rem;
+   padding-top: 2rem;
+   height: 50px;
+    */
+ 
+} 
+
+#l
+{
+  background-color:pink;
+  border-radius: 2rem;
+}
+
+#l1
+{
+  background-color:pink;
+}
+
+#l2
+{
+  background-color:pink;
+}
+
+#l3
+{
+  background-color:pink;
+}
+
+#l4
+{
+  background-color:pink;
+}
+
+#ll{
+  margin-left: 1rem;
+}
+
+.data{
+   background-color:#fff;
+   
+}
+
+.table,th,td
+{
+    border:solid;
+    width:5%;
+
+}
+
